@@ -5,7 +5,7 @@
 - 📫 You can reach me in alfaris.mgk@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaicalalf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaicalalf)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaicalalf&layout=compact)
 
 <!---
 - 😄 Pronouns: ...

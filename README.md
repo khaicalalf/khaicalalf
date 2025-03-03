@@ -5,9 +5,10 @@
 - 📫 You can reach me in alfaris.mgk@gmail.com
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaicalalf&layout=compact)
 
 <!---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaicalalf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaicalalf&layout=compact)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 khaicalalf/khaicalalf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

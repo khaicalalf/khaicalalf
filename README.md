@@ -5,7 +5,6 @@
 - 📫 You can reach me in alfaris.mgk@gmail.com
 
 <figure><embed src="https://wakatime.com/share/@a6753eac-8092-41d5-8aee-21bef8e82c53/fe8d59f7-a9b5-4d3f-9936-70c8f44f5a38.svg"></embed></figure>
-https://wakatime.com/share/@a6753eac-8092-41d5-8aee-21bef8e82c53/3df9fd61-a595-44c7-a504-cc0b70bae978.svg
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaicalalf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaicalalf&layout=compact)
 

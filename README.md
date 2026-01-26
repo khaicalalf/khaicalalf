@@ -1,9 +1,9 @@
 <br clear="both">
 
 <h1 align="center">👋 Hi, I’m MG Khaical Alfaris</h1>
-<h3 align="center">👀 I’m interested in UI UX, Graphic Design, Illustration and Web Development</h3>
-<h3 align="center">⚡ I can be relied on in developing websites with Laravel and React</h3>
-<h3 align="center">🌱 I’m currently learning Front End Development with JS and React, UI UX Design and Illustration</h3>
+<p align="left">I’m interested in UI UX, Graphic Design, Illustration and Web Development. 
+<br> I can be relied on in developing websites with Laravel and React. 
+<br> I’m currently learning Front End Development with JS and React, UI UX Design and Illustration</p>
 
 ###
 
@@ -44,23 +44,25 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaicalalf&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+</div> -->
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaicalalf/khaicalalf/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khaicalalf/khaicalalf/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/khaicalalf/khaicalalf/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
+<div align="center">
 <img src="https://wakatime.com/share/@a6753eac-8092-41d5-8aee-21bef8e82c53/fe8d59f7-a9b5-4d3f-9936-70c8f44f5a38.svg" height="350"></img>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaicalalf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaicalalf&layout=compact)
+</div>
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaicalalf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaicalalf&layout=compact)  -->
 
 
 <!---

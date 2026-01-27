@@ -1,9 +1,11 @@
 <br clear="both">
 
 <h1 align="center">👋 Hi, I’m MG Khaical Alfaris</h1>
-<p align="left">I’m interested in UI UX, Graphic Design, Illustration and Web Development. 
-<br> I can be relied on in developing websites with Laravel and React. 
-<br> I’m currently learning Front End Development with JS and React, UI UX Design and Illustration</p>
+<div align="center">
+  <p align="left">I’m interested in UI UX, Graphic Design, Illustration and Web Development. 
+  <br> I can be relied on in developing websites with Laravel and React. 
+  <br> I’m currently learning Front End Development with JS and React, UI UX Design and Illustration</p>
+</div>
 
 ###
 
